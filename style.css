@@ -1,0 +1,33 @@
+h1,
+h2,
+h3,
+#land{
+    font-family: "Verdana", "Helvetica", sans-serif;
+    color: crimson;
+    font-weight: bold;
+    background-color: black;
+}
+#land{
+    color: blue;
+    background-color: gold;
+}
+body{
+    background-color: gold;
+}
+.image{
+    width: 50%;
+    height: auto;
+}
+ul,
+ol{
+    font-weight: bold;
+    font-size: 24px;
+}
+ul{
+    background-color: orange;
+    color: blue;
+}
+ol{
+    background-color: blue;
+    color: orange;
+}
